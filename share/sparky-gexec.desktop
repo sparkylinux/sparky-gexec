@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=gExec
+GenericName=gExec
+Comment=Run command
+Comment[de_DE]=Befehl ausführen
+Comment[es_AR]=Comando de marcha
+Comment[fr_FR]=Exécutez la commande
+Comment[it_IT]=Eseguire il comando
+Comment[ja_JP]=コマンドを実行します。
+Comment[pl_PL]=Uruchom polecenie
+Comment[pt]=Executar o comando
+Comment[ru_RU]=Выполнить команду
+Comment[sv_SE]=Kör kommando
+Exec=gexec
+Icon=system-run
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;System
