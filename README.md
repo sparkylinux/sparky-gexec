@@ -1,7 +1,7 @@
 gExec
 This installs gexec tool and a menu entry which lets you run a command
 
-Copyright (C) 2013-2016 Paweł Pijanowski
+Copyright (C) 2013-2019 Paweł Pijanowski
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
